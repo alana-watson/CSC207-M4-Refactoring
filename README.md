@@ -344,7 +344,7 @@ IntelliJ Documentation: [Extract Method](https://www.jetbrains.com/help/idea/ext
       a. Variable `play` is used twice in the method. Replace both of them with a call to the new helper `getPlay`.
  
       b. Now variable `play` is no longer used in the method body for `getAmount`.
-         Update your first helper method, along with your call to it, such that it only takes a `Performance` object as a parameter. In IntelliJ, use the `Refactor->Change Signature` refactoring and deleting the second parameter. Right-click on the method header to open the menu.
+         Update your first helper method, along with yaour call to it, such that it only takes a `Performance` object as a parameter. In IntelliJ, use the `Refactor->Change Signature` refactoring and deleting the second parameter. Right-click on the method header to open the menu.
    
    - That was big! Make sure the tests still run (`StatementPrinterTests`), and **commit your work**.
 
