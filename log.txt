@@ -1,3 +1,4 @@
+6d8cf98 Completed Task 2.3
 1cf1b2e Completed Task 2.2
 039d558 Complete Task 2.1
 f74889a completed 2.1 up to step 4
