@@ -1,3 +1,4 @@
+794e6fe Completed Task 2.4
 6d8cf98 Completed Task 2.3
 1cf1b2e Completed Task 2.2
 039d558 Complete Task 2.1
